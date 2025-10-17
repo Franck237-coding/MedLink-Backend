@@ -19,4 +19,4 @@ Ce backend expose une API RESTful permettant aux patients, médecins et pharmaci
 ## 🚀 Installation
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/<ton-compte>/medlink-backend.git
+   git clone https://github.com/Franck237-coding/MedLink-Backend.git
