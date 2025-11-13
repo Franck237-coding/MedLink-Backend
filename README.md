@@ -1,6 +1,6 @@
 # MedLink-Backend 
 
-Backend du projet **MedLink**, développé avec **Laravel 12**.  
+Backend du projet **MedLink**, développé avec **SPRING BOOT**.  
 Ce backend expose une API RESTful permettant aux patients, médecins et pharmacies d’interagir via l’application React.
 
 ## ⚙️ Fonctionnalités principales
@@ -10,7 +10,7 @@ Ce backend expose une API RESTful permettant aux patients, médecins et pharmaci
 - Consultation d’informations santé
 
 ## 🛠 Technologies
-- Laravel 12 (PHP 8+)
+- Springboot (Java)
 - MySQL
 - Eloquent ORM
 - Sanctum (authentification API)
